@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.jpg" alt="Kyva — Controle seus gastos antes de acontecerem" width="100%">
+</p>
 
-<!--
-**jonesroberto/jonesroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Co-founder & CTO da <a href="https://kyva.com.br"><b>Kyva</b></a> — construindo o "Ramp + Stripe Billing" do Brasil<br>
+  para dar mais saúde financeira ao empresário brasileiro.
+</p>
 
-Here are some ideas to get you started:
+### Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonesroberto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kyva.com.br"><img src="https://img.shields.io/badge/Kyva-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kyva"></a>
+  <a href="https://github.com/jonesroberto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+#### 📫 Fale comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonesroberto)
+- 🌐 [kyva.com.br](https://kyva.com.br)
