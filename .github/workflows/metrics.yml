@@ -16,6 +16,24 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
+          config_timezone: America/Sao_Paulo
           base: header, activity, community, repositories
+
+          # Calendário de contribuições no estilo do GitHub (último ano)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # Linguagens mais usadas
           plugin_languages: yes
-          plugin_isocalendar: yes
+
+          # Horários e dias com mais commits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Linhas adicionadas e removidas
+          plugin_lines: yes
+
+          # Conquistas do GitHub
+          plugin_achievements: yes
+          plugin_achievements_display: compact
